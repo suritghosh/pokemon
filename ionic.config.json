@@ -1,5 +1,7 @@
 {
   "name": "devdacticPokedex",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
